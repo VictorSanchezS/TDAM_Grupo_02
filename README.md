@@ -1,7 +1,8 @@
 ## Autores
 
-- Linder Jesus Ramos Suarez
-- Marlia Centurion Quispe
-- David Bernal Suclupe
-- Doris Yubitza Siesquen Merino
-- Victor Manuel Sanchez Shapiama
+- Centurion Quispe Marlia
+- Bernal Suclupe David
+- Ramos Suarez Linder Jesus
+- Sanchez Shapiama Victor Manuel
+- Siesquen Merino Doris Yubitza
+
